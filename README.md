@@ -60,7 +60,7 @@ These are the few additions I would like to make initially.
 ## Demonstration Video
 The video attached below is an overview of how the project actually operates, please click on the image to watch the video.                                      *For better viewing experience please watch it in 1080p(HD) resolution.*
 
-[![blog](https://img.youtube.com/vi/INAMJBhzaq8/0.jpg)](https://www.youtube.com/watch?v=xa52ocftIJY)
+[![blog](https://img.youtube.com/vi/INAMJBhzaq8/0.jpg)](https://www.youtube.com/watch?v=INAMJBhzaq8)
 
 
 ## Project Gallery
